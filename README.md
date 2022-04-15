@@ -1,4 +1,4 @@
-~ I'm a human, web dev, UI UX Designer, Graphic Designer, Evreything u can name for.
+~ I'm a human, web dev, UI UX Designer, Graphic Designer, Everything u can name for.
 
 ~ Currently trynna learn react.js 
 
