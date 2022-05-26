@@ -15,3 +15,6 @@
 ~ I am not any unique person (Trynna be tho)
 
 ~ Now get da hell outta here nd go do some codes
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
+
