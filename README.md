@@ -1,3 +1,7 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxraj-rajput&theme=blue-black)
+
 ~ I'm a human, web dev, UI UX Designer, Graphic Designer, Everything u can name for.
 
 ~ Currently trynna learn react.js 
@@ -16,5 +20,6 @@
 
 ~ Now get da hell outta here nd go do some codes
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
+
+
 
