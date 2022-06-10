@@ -1,4 +1,4 @@
-![Test Image 4](https://cdn.britannica.com/49/161649-050-3F458ECF/Bernese-mountain-dog-grass.jpg?q=60)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
 
