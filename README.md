@@ -1,4 +1,4 @@
-https://i.stack.imgur.com/9guCz.jpg
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
 
