@@ -10,7 +10,7 @@
 
 ~ I love to create intros, animations, logos nd all
 
-~ U can check my site suppperb.me
+~ U can check my site yaxraj.tech
 
 ~ I need money to buy a new pc setup plz gimme atleast 1 bitcoin and i'll ask jesus for blessings :)
 
