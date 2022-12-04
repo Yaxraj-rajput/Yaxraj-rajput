@@ -1,5 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yaxraj-rajput&show_icons=true)
+![](https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaxraj-rajput&theme=blue-black)
 
 🤓 🤓 🤓 
