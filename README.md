@@ -1,4 +1,7 @@
-![](https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/65/5d/eb/655deb79adc638114407738f79dea2c4.gif" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
