@@ -7,3 +7,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Yaxraj-rajput/count.svg" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=yaxraj-rajput&style=flat-square)
