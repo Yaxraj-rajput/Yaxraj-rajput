@@ -1,13 +1,8 @@
 
 <p align="center">
-  <img src="https://i.kym-cdn.com/entries/icons/original/000/046/611/thereisnothingwecando.jpg" />
+  <img src="https://64.media.tumblr.com/56d62eada6fb06d46bae6f55cf83565e/tumblr_oz05fnWDCV1wh72bco1_500.gif" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Yaxraj-rajput/count.svg" />
-
-</p>
 
 
 
